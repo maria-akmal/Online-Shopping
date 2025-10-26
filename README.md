@@ -3,7 +3,7 @@
 ## 🗓️ Project Info
 
 **This is the third project submitted on 20/9/2025**
-Part of the **Samsung Innovation Campus – Chapter 6 Projects**.
+Part of the **Samsung Innovation Campus – Chapter 6**.
 
 ---
 
