@@ -100,9 +100,9 @@ Python version: **3.8+**
 
 This project was proudly developed by:
 
-* **Maria Akmal**
+* **Maria Akmal**(me)
 * **Ahmed Wael**
-* **Youssef Kamel**
+* **Youssef Mohamed**
 
 As a team, we worked with strong communication, mutual respect, and shared goals.
 We divided responsibilities effectively, helped one another through technical challenges,
